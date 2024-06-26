@@ -1,0 +1,1 @@
+void wyswietl_statystyke();
